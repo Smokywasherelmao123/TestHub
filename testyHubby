@@ -1,1 +1,2 @@
-print("GOGO GAGA")
+print("Hello World")
+Warn("Error.exe virus found")
