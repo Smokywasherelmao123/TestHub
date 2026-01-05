@@ -1,2 +1,2 @@
 print("Hello World")
-Warn("Error.exe virus found")
+warn("Error.exe virus found")
